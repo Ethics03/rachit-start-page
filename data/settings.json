@@ -1,5 +1,5 @@
 {
-	"username": "Aditya",
+	"username": "Rachit",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -137,17 +137,17 @@
 				"links": [
 					{
 						"name": "Github",
-						"url": "https://github.com/SNKYNinja",
+						"url": "https://github.com/Ethics03",
 						"icon": "mdi:github"
 					},
 					{
 						"name": "Repositories",
-						"url": "https://github.com/SNKYNinja?tab=repositories",
+						"url": "https://github.com/Ethics03?tab=repositories",
 						"icon": "octicon:repo-16"
 					},
 					{
 						"name": "Vercel",
-						"url": "https://vercel.com/snkyninjas-projects",
+						"url": "https://vercel.com/rachit-srivastavas-projects-2234e530",
 						"icon": "ri:vercel-fill"
 					}
 				]
@@ -164,35 +164,13 @@
 					},
 					{
 						"name": "LinkedIn",
-						"url": "https://www.linkedin.com/in/aditya-chaudhary-36898a283/",
+						"url": "https://www.linkedin.com/in/rachit-srivastava-3b764527a/",
 						"icon": "bi:linkedin"
 					},
 					{
 						"name": "Bento",
-						"url": "https://bento.me/aditya-byte",
+						"url": "https://bento.me/rachitdev",
 						"icon": "simple-icons:bento"
-					}
-				]
-			},
-			{
-				"title": "DSA",
-				"color": "red",
-				"align": "left",
-				"links": [
-					{
-						"name": "Sheet",
-						"url": "https://docs.google.com/spreadsheets/d/18xMyzXEu8_pNZz1ednk3KpboYrv7fpqjZ8X3Dmhxvkw/edit?gid=0#gid=0",
-						"icon": "icon-park-solid:data-sheet"
-					},
-					{
-						"name": "Roadmap",
-						"url": "https://whimsical.com/complete-dsa-roadmap-A7HgN4QaX1r4xDxRgwXrH",
-						"icon": "carbon:roadmap"
-					},
-					{
-						"name": "Question",
-						"url": "https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/",
-						"icon": "akar-icons:question-fill"
 					}
 				]
 			},
@@ -203,17 +181,17 @@
 				"links": [
 					{
 						"name": "Codolio",
-						"url": "https://codolio.com/profile/aditya_snky",
+						"url": "https://codolio.com/profile/neva",
 						"icon": "mynaui:fire-solid"
 					},
 					{
 						"name": "LeetCode",
-						"url": "https://leetcode.com/u/SNKYNinja/",
+						"url": "https://leetcode.com/u/RachitSrivastava03/",
 						"icon": "simple-icons:leetcode"
 					},
 					{
 						"name": "Codeforces",
-						"url": "https://codeforces.com/profile/ninja_byte",
+						"url": "https://codeforces.com/profile/RachitSrivastava03",
 						"icon": "simple-icons:codeforces"
 					}
 				]
