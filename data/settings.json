@@ -217,6 +217,28 @@
 						"icon":"simple-icons:kubernetes"
 					}
 				]
+			},
+			{
+				"title": "Tech",
+				"color": "cyan",
+				"align": "left",
+				"links": [
+					{
+						"name": "Stack Overflow",
+						"url": "https://stackoverflow.com/",
+						"icon": "simple-icons:stackoverflow"
+					},
+					{
+						"name":"Dev.to",
+						"url":"https://dev.to/",
+						"icon":"material-symbols:logo-dev"
+					},
+					{
+						"name":"Medium",
+						"url":"https://medium.com/",
+						"icon":"simple-icons:medium"
+					}
+				]
 			}
 			
 		]
