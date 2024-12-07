@@ -195,6 +195,28 @@
 						"icon": "simple-icons:codeforces"
 					}
 				]
+			},
+			{
+				"title": "Docs",
+				"color": "red",
+				"align": "left",
+				"links": [
+					{
+						"name": "Nestjs",
+						"url": "https://docs.nestjs.com/",
+						"icon": "simple-icons:nestjs"
+					},
+					{
+						"name":"Golang",
+						"url":"https://go.dev/doc/",
+						"icon":"simple-icons:go"
+					},
+					{
+						"name":"Kubernetes",
+						"url":"https://kubernetes.io/docs/home/",
+						"icon":"simple-icons:kubernetes"
+					}
+				]
 			}
 			
 		]
